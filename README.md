@@ -21,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
