@@ -57,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pratik-makvanaa/DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pratik-makvanaa/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pratik-makvanaa/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
