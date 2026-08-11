@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Pratik-makvanaa/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pratik-makvanaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pratik-makvanaa/DSA/tree/master/0051-n-queens) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
