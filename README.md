@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pratik-makvanaa/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pratik-makvanaa/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pratik-makvanaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pratik-makvanaa/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Algorithm X
 |  |
 | ------- |
