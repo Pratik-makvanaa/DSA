@@ -1,60 +1,47 @@
+import java.util.*;
+
 class Solution {
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+
+        // Duplicates ko adjacent lane ke liye sort karo
         Arrays.sort(nums);
 
-        List<List<Integer>> result =
-            new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
 
+        List<Integer> current = new ArrayList<>();
 
-        // Current subset
-        List<Integer> current =
-            new ArrayList<>();
+        solve(0, nums, current, ans);
 
-
-        // Backtracking start
-        backtrack(
-            0,
-            nums,
-            current,
-            result
-        );
-
-
-        return result;
+        return ans;
     }
 
-    void backtrack(
+    void solve(
         int start,
         int[] nums,
         List<Integer> current,
-        List<List<Integer>> result
+        List<List<Integer>> ans
     ) {
 
-        result.add(
-            new ArrayList<>(current)
-        );
+        // Current subset ko answer me add karo
+        ans.add(new ArrayList<>(current));
 
+        // Har possible element ko choose karke dekho
         for (int i = start; i < nums.length; i++) {
 
-            if (
-                i > start &&
-                nums[i] == nums[i - 1]
-            ) {
+            // Same level par duplicate element skip karo
+            if (i > start && nums[i] == nums[i - 1]) {
                 continue;
             }
+
+            // Choose
             current.add(nums[i]);
 
-            backtrack(
-                i + 1,
-                nums,
-                current,
-                result
-            );
+            // Next elements ke liye recursion
+            solve(i + 1, nums, current, ans);
 
-            current.remove(
-                current.size() - 1
-            );
+            // Backtrack / Undo
+            current.remove(current.size() - 1);
         }
     }
 }
