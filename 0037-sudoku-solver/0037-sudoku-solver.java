@@ -7,10 +7,7 @@ class Solution {
 
 
     boolean solve(char[][] board) {
-
-        // -----------------------------------------
         // Empty cell find karo
-        // -----------------------------------------
 
         for (int row = 0; row < 9; row++) {
 
