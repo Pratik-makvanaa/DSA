@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratik-makvanaa/DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pratik-makvanaa/DSA/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
