@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pratik-makvanaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
 ## Backtracking
 |  |
 | ------- |
