@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pratik-makvanaa/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Pratik-makvanaa/DSA/tree/master/0191-number-of-1-bits) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Pratik-makvanaa/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Pratik-makvanaa/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Pratik-makvanaa/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Pratik-makvanaa/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Pratik-makvanaa/DSA/tree/master/0200-number-of-islands) |
