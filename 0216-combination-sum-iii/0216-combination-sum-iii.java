@@ -1,25 +1,49 @@
+import java.util.*;
+
 class Solution {
+
     public List<List<Integer>> combinationSum3(int k, int n) {
+
         List<List<Integer>> ans = new ArrayList<>();
-        backtrack(1,k,n,new ArrayList<>(), ans);
+        List<Integer> current = new ArrayList<>();
+
+        solve(1, k, n, 0, current, ans);
+
         return ans;
     }
 
-    private void backtrack(int start, int k, int target,List<Integer> ds,
-                                List<List<Integer>> ans){
-                                    if(k == 0 && target == 0){
-                                         ans.add(new ArrayList<>(ds));
-                                    }
-                                    if(k == 0 || target <= 0){
-                                        return;
-                                    }
+    void solve(int start, int k, int target,
+               int sum, List<Integer> current,
+               List<List<Integer>> ans) {
 
-                                    for(int i=start;i<=9;i++){
-                                        ds.add(i);
+        // Exactly k numbers choose ho gaye
+        if (current.size() == k) {
 
-                                        backtrack(i+1,k-1,target-i,ds,ans);
+            // Check sum
+            if (sum == target) {
+                ans.add(new ArrayList<>(current));
+            }
 
-                                        ds.remove(ds.size() - 1);
-                                    }
-                                }
+            return;
+        }
+
+        // Numbers sirf 1 to 9
+        for (int i = start; i <= 9; i++) {
+
+            // Sum target se exceed ho raha hai
+            if (sum + i > target) {
+                break;
+            }
+
+            // TAKE
+            current.add(i);
+
+            // i + 1 because same number dobara use nahi kar sakte
+            solve(i + 1, k, target,
+                  sum + i, current, ans);
+
+            // BACKTRACK
+            current.remove(current.size() - 1);
+        }
+    }
 }
