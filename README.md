@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Pratik-makvanaa/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pratik-makvanaa/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Pratik-makvanaa/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Pratik-makvanaa/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
