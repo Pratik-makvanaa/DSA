@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Pratik-makvanaa/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Pratik-makvanaa/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pratik-makvanaa/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pratik-makvanaa/DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pratik-makvanaa/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
