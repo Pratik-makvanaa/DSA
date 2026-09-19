@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Pratik-makvanaa/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Pratik-makvanaa/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Pratik-makvanaa/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
