@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
+| [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Pratik-makvanaa/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-makvanaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
