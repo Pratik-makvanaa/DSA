@@ -3,49 +3,35 @@ class Solution {
 
         int n = s.length();
 
-        int[] dp = new int[n];
+        int[] dp = new int[n + 1];
 
-        Arrays.fill(dp, -1);
+        // Base case:
+        dp[n] = 1;
 
-        return solve(0, s, dp);
-    }
+        for (int i = n - 1; i >= 0; i--) {
 
-    int solve(int i, String s, int[] dp) {
+            // Current digit 0 hai
+            if (s.charAt(i) == '0') {
+                dp[i] = 0;
+                continue;
+            }
 
-        // Successfully decoded entire string
-        if (i == s.length()) {
-            return 1;
-        }
+            // Take one digit
+            dp[i] = dp[i + 1];
 
-        // Current digit is 0
-        if (s.charAt(i) == '0') {
-            return 0;
-        }
+            // Take two digits
+            if (i + 1 < n) {
 
-        // Already calculated
-        if (dp[i] != -1) {
-            return dp[i];
-        }
+                int number = Integer.parseInt(
+                    s.substring(i, i + 2)
+                );
 
-        // Choice 1: Take one digit
-        int one = solve(i + 1, s, dp);
-
-        // Choice 2: Take two digits
-        int two = 0;
-
-        if (i + 1 < s.length()) {
-
-            int number = Integer.parseInt(
-                s.substring(i, i + 2)
-            );
-
-            if (number >= 10 && number <= 26) {
-                two = solve(i + 2, s, dp);
+                if (number >= 10 && number <= 26) {
+                    dp[i] += dp[i + 2];
+                }
             }
         }
 
-        dp[i] = one + two;
-
-        return dp[i];
+        return dp[0];
     }
 }
