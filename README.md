@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-makvanaa/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pratik-makvanaa/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pratik-makvanaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pratik-makvanaa/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
