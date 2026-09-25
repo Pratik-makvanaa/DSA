@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pratik-makvanaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pratik-makvanaa/DSA/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Pratik-makvanaa/DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pratik-makvanaa/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
