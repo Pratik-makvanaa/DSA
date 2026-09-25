@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pratik-makvanaa/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pratik-makvanaa/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Pratik-makvanaa/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Pratik-makvanaa/DSA/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1092-shortest-common-supersequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pratik-makvanaa/DSA/tree/master/1143-longest-common-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Pratik-makvanaa/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Pratik-makvanaa/DSA/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
 |  |
