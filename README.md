@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pratik-makvanaa/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pratik-makvanaa/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pratik-makvanaa/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Pratik-makvanaa/DSA/tree/master/0037-sudoku-solver) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pratik-makvanaa/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pratik-makvanaa/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Pratik-makvanaa/DSA/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pratik-makvanaa/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pratik-makvanaa/DSA/tree/master/0016-3sum-closest) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratik-makvanaa/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
